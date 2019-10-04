@@ -1,0 +1,4 @@
+This is a file in Branch B
+I created it in Branch B. Pretty sure once I commit it, it appears in Branch B, but not in either master or Branch A.
+
+Later, I will try things like rebasing to see when this file can be made to appear in Branch A, which was created and is open just like this Branch.
