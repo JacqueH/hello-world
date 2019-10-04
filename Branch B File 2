@@ -1,0 +1,6 @@
+The second file in branch b that is not in branch a
+now I'm going to
+* commit this file
+* merge this branch with master
+
+and then see what branch a looks like, and whether I can do this thing called "rebase"
